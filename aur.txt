@@ -1,0 +1,6 @@
+bibata-cursor-theme
+cmatrix-git
+darkly-git
+mikusays
+tokyonight-gtk-theme-git
+vlc-git
