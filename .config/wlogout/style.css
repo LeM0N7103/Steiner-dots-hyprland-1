@@ -1,0 +1,97 @@
+/* Ayu Dark themed style.css for wlogout */
+/* Based on default wlogout styling, adapted to Ayu Dark palette */
+/* Colors from ayu dark: deep navy bg, soft text, amber selected, cyan active, red urgent */
+
+* {
+    background-image: none;
+    transition: none;
+    box-shadow: none;
+}
+
+window {
+    background-color: #0a0e14;          /* deep Ayu Dark background */
+    color: #e6e1dc;                     /* foreground / main text */
+    font-family: JetBrains Mono, monospace;  /* or your preferred font */
+    font-size: 14px;
+}
+
+button {
+    background-color: #0f1117;          /* background-alt / panels */
+    border-radius: 12px;
+    border: 2px solid transparent;
+    box-shadow: none;
+    margin: 10px;
+    padding: 20px;
+    color: #e6e1dc;
+    font-weight: normal;
+}
+
+button:focus, button:active, button:hover {
+    background-color: #14191f;          /* slightly lighter on hover/focus */
+    border: 2px solid #59c2ff;         /* cyan/blue accent for focus/hover */
+    color: #e6e1dc;
+}
+
+button label {
+    color: #e6e1dc;
+}
+
+/* Specific button labels (match the default layout labels like "lock", "logout", etc.) */
+#lock {
+    background-image: url("/usr/share/wlogout/icons/lock.png");  /* keep default icon if present */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+#logout {
+    background-image: url("/usr/share/wlogout/icons/logout.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+#suspend {
+    background-image: url("/usr/share/wlogout/icons/suspend.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+#hibernate {
+    background-image: url("/usr/share/wlogout/icons/hibernate.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+#shutdown {
+    background-image: url("/usr/share/wlogout/icons/shutdown.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+#reboot {
+    background-image: url("/usr/share/wlogout/icons/reboot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+}
+
+/* Highlight important/dangerous actions (e.g. shutdown/reboot) */
+#shutdown, #reboot {
+    color: #f07178;                     /* soft red accent for danger */
+}
+
+#shutdown:hover, #reboot:hover {
+    background-color: #1f2430;
+    border: 2px solid #f07178;
+}
+
+/* Selected / active state (when focused via keyboard) */
+button:selected {
+    background-color: #e6b450;          /* Ayu gold/amber for selected */
+    color: #0a0e14;                     /* dark text on accent */
+    border: 2px solid #e6b450;
+}

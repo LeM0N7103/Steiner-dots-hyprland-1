@@ -1,0 +1,34 @@
+{
+	"installed": [
+		{
+			"appName": "1423049311",
+			"install_path": "/home/lemon/Games/Heroic/Cyberpunk 2077",
+			"executable": "/home/lemon/Games/Heroic/Cyberpunk 2077",
+			"install_size": "85.08 GiB",
+			"is_dlc": false,
+			"version": "2.31a",
+			"platform": "windows",
+			"buildId": "58989493373906337",
+			"language": "en-US",
+			"installedDLCs": [
+				"1256837418",
+				"1597316373"
+			],
+			"installedWithDLCs": true,
+			"versionEtag": "\"a541cf5165cdf09a363de213a7ac4535\""
+		},
+		{
+			"appName": "1453650568",
+			"install_path": "/home/lemon/Games/Heroic/Yakuza 3",
+			"executable": "/home/lemon/Games/Heroic/Yakuza 3",
+			"install_size": "25.17 GiB",
+			"is_dlc": false,
+			"version": "1.005a",
+			"platform": "windows",
+			"buildId": "56599610362886949",
+			"language": "en-US",
+			"installedDLCs": [],
+			"installedWithDLCs": false
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+  "Windows": [
+    {
+      "app_name": "Crow",
+      "asset_id": "Crow",
+      "build_version": "1.1243375.0.2",
+      "catalog_item_id": "75a5bee8052f4e2498094b2faaea8c11",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d126ea19b8f14425a4bd77f5fea88e60"
+      },
+      "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d36336f190094951873ed6138ac208d8",
+      "asset_id": "d36336f190094951873ed6138ac208d8",
+      "build_version": "6770",
+      "catalog_item_id": "c80a76de890145edbe0d41679dbccc66",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "b7b42e2078524ab386a8b2a9856ef557",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fa4240e57a3c46b39f169041b7811293",
+      "asset_id": "fa4240e57a3c46b39f169041b7811293",
+      "build_version": "1613387",
+      "catalog_item_id": "864c7bc2c2394f7dbd1b534aa068ff56",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e97659b501af4e3981d5430dad170911",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-39.51-CL-51287198-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn",
+      "sidecar_rev": 0
+    }
+  ]
+}

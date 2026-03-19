@@ -1,0 +1,82 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 24,
+    "margin": "0 0 0 0",
+    "spacing": 8,
+
+    "modules-left": ["hyprland/workspaces", "hyprland/window"],
+    "modules-center": ["clock"],
+    "modules-right": ["tray", "pulseaudio", "bluetooth", "cpu", "memory", "network", "custom/power"],
+
+    // Workspaces (simple numbered, focused highlighted)
+    "hyprland/workspaces": {
+        "format": "{name}",
+        "on-click": "activate",
+        "persistent-workspaces": {
+            "*": 3  // optional: always show 10 workspaces
+        }
+    },
+
+    // Window title
+    "hyprland/window": {
+        "max-length": 60,
+        "separate-outputs": true
+    },
+
+    // Clock (simple date + time)
+    "clock": {
+        "format": "{:%a %d %b  %H:%M}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    // Audio (volume level)
+    "pulseaudio": {
+        "format": "[SOUND] {volume}%",
+        "format-muted": "[SOUND] Muted",
+        "scroll-step": 5,
+        "on-click": "bluez-qt"
+    },
+
+    // Bluetooth (shows "ON" or "OFF")
+    "bluetooth": {
+        "format": "[BT] {status}",
+        "format-connected": "[BT] Connected",
+        "format-on": "[BT] ON",
+        "format-off": "[BT] OFF",
+        "tooltip-format": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}"
+
+    },
+
+    // CPU usage
+    "cpu": {
+        "format": "[CPU] {usage}%"
+    },
+
+    // RAM usage
+    "memory": {
+        "format": "[RAM] {used:0.1f}GiB"
+    },
+
+    // Network (simple online/offline)
+    "network": {
+        "format-wifi": "[NET] Connected",
+        "format-ethernet": "[NET] Connected",
+        "format-disconnected": "[NET] Offline",
+        "tooltip-format": "{ifname}: {ipaddr}/{cidr}",
+        "tooltip-format-disconnected": "Disconnected"
+    },
+
+    // Power button → opens wlogout on click
+    "custom/power": {
+        "format": "[POWER]",
+        "on-click": "wlogout",
+        "tooltip": false
+    },
+
+    "tray": {
+        "spacing": 10
+    }
+}

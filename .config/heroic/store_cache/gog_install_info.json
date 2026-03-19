@@ -1,0 +1,366 @@
+{
+	"1423049311_windows_null_undefined_": {
+		"game": {
+			"app_name": "1423049311",
+			"title": "Cyberpunk 2077",
+			"owned_dlc": [
+				{
+					"app_name": "1597316373",
+					"title": "Cyberpunk 2077 REDmod",
+					"perLangSize": {
+						"*": {
+							"download_size": 278,
+							"disk_size": 635
+						},
+						"zh-Hans": {
+							"download_size": 24946797,
+							"disk_size": 97226555
+						},
+						"fr-FR": {
+							"download_size": 24946783,
+							"disk_size": 97226539
+						},
+						"ru-RU": {
+							"download_size": 24946782,
+							"disk_size": 97226540
+						},
+						"pt-BR": {
+							"download_size": 24946797,
+							"disk_size": 97226555
+						},
+						"it-IT": {
+							"download_size": 24946782,
+							"disk_size": 97226540
+						},
+						"ja-JP": {
+							"download_size": 24946784,
+							"disk_size": 97226541
+						},
+						"en-US": {
+							"download_size": 24946784,
+							"disk_size": 97226540
+						},
+						"pl-PL": {
+							"download_size": 24946784,
+							"disk_size": 97226539
+						},
+						"ko-KR": {
+							"download_size": 24946782,
+							"disk_size": 97226539
+						},
+						"es-ES": {
+							"download_size": 24946782,
+							"disk_size": 97226540
+						},
+						"de-DE": {
+							"download_size": 24946781,
+							"disk_size": 97226539
+						}
+					}
+				},
+				{
+					"app_name": "1256837418",
+					"title": "Cyberpunk 2077: Phantom Liberty",
+					"perLangSize": {
+						"*": {
+							"download_size": 0,
+							"disk_size": 0
+						},
+						"zh-Hans": {
+							"download_size": 26187621909,
+							"disk_size": 26712502069
+						},
+						"fr-FR": {
+							"download_size": 26030432427,
+							"disk_size": 26556190498
+						},
+						"ru-RU": {
+							"download_size": 25931196417,
+							"disk_size": 26455289635
+						},
+						"pt-BR": {
+							"download_size": 26134827602,
+							"disk_size": 26660237106
+						},
+						"it-IT": {
+							"download_size": 26047633049,
+							"disk_size": 26572123939
+						},
+						"ja-JP": {
+							"download_size": 26219128573,
+							"disk_size": 26744430372
+						},
+						"en-US": {
+							"download_size": 24405201081,
+							"disk_size": 24864943837
+						},
+						"pl-PL": {
+							"download_size": 26101753541,
+							"disk_size": 26627145506
+						},
+						"ko-KR": {
+							"download_size": 25978074589,
+							"disk_size": 26502151970
+						},
+						"es-ES": {
+							"download_size": 26111140030,
+							"disk_size": 26636062501
+						},
+						"de-DE": {
+							"download_size": 26366580239,
+							"disk_size": 26890833698
+						}
+					}
+				}
+			],
+			"version": "2.31a",
+			"launch_options": [],
+			"branches": [
+				null,
+				"1_63_legacy_patch"
+			],
+			"buildId": "58989493373906337"
+		},
+		"manifest": {
+			"download_size": 88736561808,
+			"disk_size": 91342211054,
+			"perLangSize": {
+				"*": {
+					"download_size": 0,
+					"disk_size": 0
+				},
+				"zh-Hans": {
+					"download_size": 68969397742,
+					"disk_size": 71254321094
+				},
+				"fr-FR": {
+					"download_size": 69093926823,
+					"disk_size": 71381223347
+				},
+				"ru-RU": {
+					"download_size": 69455440515,
+					"disk_size": 71742695348
+				},
+				"pt-BR": {
+					"download_size": 69216672491,
+					"disk_size": 71500789699
+				},
+				"it-IT": {
+					"download_size": 69276143304,
+					"disk_size": 71562356659
+				},
+				"ja-JP": {
+					"download_size": 68973845029,
+					"disk_size": 71254669236
+				},
+				"en-US": {
+					"download_size": 64306413665,
+					"disk_size": 66380040042
+				},
+				"pl-PL": {
+					"download_size": 68969184458,
+					"disk_size": 71258290098
+				},
+				"ko-KR": {
+					"download_size": 69101290161,
+					"disk_size": 71383783346
+				},
+				"es-ES": {
+					"download_size": 69524920375,
+					"disk_size": 71811499958
+				},
+				"de-DE": {
+					"download_size": 69176465985,
+					"disk_size": 71463278514
+				}
+			},
+			"app_name": "1423049311",
+			"languages": [
+				"ko-KR",
+				"en-US",
+				"de-DE",
+				"pl-PL",
+				"ru-RU",
+				"it-IT",
+				"zh-Hans",
+				"pt-BR",
+				"ja-JP",
+				"es-ES",
+				"fr-FR"
+			],
+			"versionEtag": "\"a541cf5165cdf09a363de213a7ac4535\"",
+			"builds": [
+				{
+					"build_id": "58989493373906337",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": null,
+					"version_name": "2.31a",
+					"tags": [
+						"receiver_v2",
+						"csb_10_6_7_w_15"
+					],
+					"public": true,
+					"date_published": "2025-09-16T13:04:39+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/9d/40/9d406eaeb2d0421c9b61aff9a1aaf0db"
+				},
+				{
+					"build_id": "58933689113538427",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": null,
+					"version_name": "2.31",
+					"tags": [
+						"receiver_v2",
+						"csb_10_6_7_w_15"
+					],
+					"public": true,
+					"date_published": "2025-08-28T07:29:12+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/94/36/94368009a4a67aa66652d1318ff5cc60"
+				},
+				{
+					"build_id": "58809037770927044",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": null,
+					"version_name": "2.3",
+					"tags": [
+						"receiver_v2",
+						"csb_10_6_7_w_15"
+					],
+					"public": true,
+					"date_published": "2025-07-16T07:02:39+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/ec/6a/ec6ad9695df9f0e980eda221e4494b64"
+				},
+				{
+					"build_id": "58293611497558516",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": null,
+					"version_name": "2.21",
+					"tags": [
+						"receiver_v2",
+						"csb_10_6_7_w_15"
+					],
+					"public": true,
+					"date_published": "2025-01-19T12:08:00+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/4f/c5/4fc5ac7cf4deeccd9ef8a15e8bacabba"
+				},
+				{
+					"build_id": "58175805992563370",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": null,
+					"version_name": "2.2(1)",
+					"tags": [
+						"receiver_v2",
+						"csb_10_6_5_w_1"
+					],
+					"public": true,
+					"date_published": "2024-12-09T20:30:37+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/27/96/27964040d1aeaefaa443987289c9d24b"
+				},
+				{
+					"build_id": "56624919703786522",
+					"product_id": "1423049311",
+					"os": "windows",
+					"branch": "1_63_legacy_patch",
+					"version_name": "1.63_Hotfix",
+					"tags": [
+						"receiver_v1",
+						"csb_10_6_1_w_141"
+					],
+					"public": true,
+					"date_published": "2023-06-23T21:32:34+0000",
+					"generation": 2,
+					"link": "https://downloadable-manifests-collector.gog.com/manifests/builds/06/21/06210881b4b5e04ce6e353ad579360f6"
+				}
+			],
+			"dependencies": [
+				"MSVC2012_x64",
+				"MSVC2013_x64",
+				"MSVC2015_x64",
+				"MSVC2015"
+			]
+		}
+	},
+	"__timestamp": {
+		"1423049311_windows_null_undefined_": "Tue Mar 17 2026 21:31:47 GMT+0500 (Maldives Time)",
+		"1453650568_windows_null_undefined_": "Tue Mar 17 2026 21:31:56 GMT+0500 (Maldives Time)"
+	},
+	"1453650568_windows_null_undefined_": {
+		"game": {
+			"app_name": "1453650568",
+			"title": "Yakuza 3 Remastered",
+			"owned_dlc": [],
+			"version": "1.005a",
+			"launch_options": [],
+			"branches": [
+				null
+			],
+			"buildId": "56599610362886949"
+		},
+		"manifest": {
+			"download_size": 23691757147,
+			"disk_size": 27026368595,
+			"perLangSize": {
+				"*": {
+					"download_size": 0,
+					"disk_size": 0
+				},
+				"en-US": {
+					"download_size": 23691757147,
+					"disk_size": 27026368595
+				},
+				"ko-KR": {
+					"download_size": 23691757147,
+					"disk_size": 27026368594
+				},
+				"zh-Hant": {
+					"download_size": 23691757161,
+					"disk_size": 27026368611
+				},
+				"ja-JP": {
+					"download_size": 23691757148,
+					"disk_size": 27026368596
+				}
+			},
+			"app_name": "1453650568",
+			"languages": [
+				"ko-KR",
+				"en-US",
+				"ja-JP",
+				"zh-Hant"
+			],
+			"versionEtag": "\"eb74b4cab9e5e825574347da72e37a3c\"",
+			"builds": [
+				{
+					"build_id": "56599610362886949",
+					"product_id": "1453650568",
+					"os": "windows",
+					"branch": null,
+					"version_name": "1.005a",
+					"tags": [
+						"receiver_v1",
+						"editor_v_1_5_0",
+						"csb_10_6_3_w_7"
+					],
+					"public": true,
+					"date_published": "2023-06-15T03:47:14+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/eb/74/eb74b4cab9e5e825574347da72e37a3c"
+				}
+			],
+			"dependencies": [
+				"MSVC2015_x64",
+				"MSVC2017_x64",
+				"DirectX"
+			]
+		}
+	}
+}

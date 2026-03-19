@@ -1,0 +1,10 @@
+{
+   "extDescription": {
+      "description": "Description of the extension",
+      "message": "Mass unfollow users who don't follow you back and who you are following on Instagram."
+   },
+   "extName": {
+      "description": "Name of the extension",
+      "message": "Unfollowers Pro"
+   }
+}

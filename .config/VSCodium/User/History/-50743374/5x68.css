@@ -1,0 +1,88 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Terminess Nerd Font";
+    font-weight: bold;
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #0d1017;     /* Ayu Dark background */
+    color: #e6e1dc;          /* main text */
+    transition: none;
+}
+
+#workspaces button {
+    padding: 0 8px;
+    color: #5c6773;          /* inactive / muted */
+}
+
+#workspaces button.active {
+    background: #e6b450;     /* accent yellow-gold for focused */
+    color: #0d1017;          /* dark text on accent */
+    font-weight: bold;
+}
+
+#workspaces button:hover {
+    background: #ff8f40;     /* orange hover */
+    color: #0d1017;
+}
+
+#window {
+    margin-left: 16px;
+    color: #cbccc6;          /* slightly softer text for title */
+}
+
+#clock {
+    font-weight: bold;
+    color: #e6e1dc;
+}
+
+#pulseaudio {
+    color: #aad94c;          /* green for audio */
+}
+
+#pulseaudio.muted {
+    color: #f07178;          /* red when muted */
+}
+
+#bluetooth {
+    color: #59c2ff;          /* blue-cyan for BT */
+}
+
+#bluetooth.off {
+    color: #f07178;          /* red when off */
+}
+
+#cpu {
+    color: #ffb454;          /* warm yellow for CPU */
+}
+
+#memory {
+    color: #ff8f40;          /* orange for RAM */
+}
+
+#network {
+    color: #aad94c;          /* green when connected */
+}
+
+#network.disconnected {
+    color: #f07178;          /* red when offline */
+}
+
+#custom-power {
+    padding-right: 12px;
+    color: #f07178;          /* red for power button */
+    font-weight: bold;
+}
+
+#tray {
+    margin-right: 8px;
+}
+
+tooltip {
+    background: #0a0e15;
+    border: 1px solid #5c6773;
+    color: #e6e1dc;
+}

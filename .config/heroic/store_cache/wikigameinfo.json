@@ -1,0 +1,102 @@
+{
+	"Cyberpunk 2077": {
+		"pcgamingwiki": {
+			"steamID": "1091500",
+			"howLongToBeatID": "2127",
+			"metacritic": {
+				"score": "86",
+				"urlid": "cyberpunk-2077"
+			},
+			"opencritic": {
+				"score": "76",
+				"urlid": "8525/cyberpunk-2077"
+			},
+			"igdb": {
+				"score": "75",
+				"urlid": "cyberpunk-2077"
+			},
+			"direct3DVersions": [
+				"12"
+			],
+			"genres": [
+				"Action",
+				"RPG",
+				"Openworld"
+			],
+			"releaseDate": [
+				"Windows: December 10, 2020|ref=<ref name=\"date\">{{Refurl|url=https://twitter.com/CyberpunkGame/status/1321128432370176002|title=Cyberpunk 2077 on Twitter: \"We have important news to share with you\"|date=2020-10-27",
+				"OS X: July 16, 2025|ref=<ref name=\"update2-3\">{{Refurl|url=https://www.cyberpunk.net/en/news/51674/update-2-3-patch-notes|title=Update 2.3|date=2025-07-16"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 26,
+			"mainExtra": 63,
+			"completionist": 108,
+			"gameId": 2127,
+			"gameName": "Cyberpunk 2077",
+			"gameImageUrl": "https://howlongtobeat.com/games/Cyberpunk-2077-2.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/2127"
+		},
+		"gamesdb": {
+			"steamID": "1091500"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		},
+		"umuId": "umu-1091500"
+	},
+	"__timestamp": {
+		"Cyberpunk 2077": "Tue Mar 17 2026 21:31:46 GMT+0500 (Maldives Time)",
+		"Yakuza 3 Remastered": "Tue Mar 17 2026 21:31:56 GMT+0500 (Maldives Time)"
+	},
+	"Yakuza 3 Remastered": {
+		"pcgamingwiki": {
+			"steamID": "1088710",
+			"howLongToBeatID": "11423",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "79",
+				"urlid": "8194/yakuza-3-remastered"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Action",
+				"Brawler",
+				"Mini-games",
+				"Openworld"
+			],
+			"releaseDate": [
+				"Windows: January 28, 2021"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 17,
+			"mainExtra": 31,
+			"completionist": 102,
+			"gameId": 11423,
+			"gameName": "Yakuza 3",
+			"gameImageUrl": "https://howlongtobeat.com/games/256px-Yakuza3_boxart.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/11423"
+		},
+		"gamesdb": {
+			"steamID": "1088710"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		},
+		"umuId": "umu-1088710"
+	}
+}

@@ -1,0 +1,4 @@
+(01:30:14) [INFO]:    GOG REDIST:: GOGDL_CONFIG_PATH=/home/lemon/.config/heroic/gogdlConfig /usr/lib/heroic/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/lemon/.config/heroic/gog_store/auth.json redist --ids ISI,MSVC2012_x64,MSVC2013_x64,MSVC2015_x64,MSVC2015,MSVC2017_x64,DirectX --path /home/lemon/.config/heroic/tools/redist/gog 
+
+[API] INFO: Getting Dependencies repository
+[REDIST] INFO: Nothing to do

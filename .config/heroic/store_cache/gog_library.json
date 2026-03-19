@@ -1,0 +1,344 @@
+{
+	"games": [
+		{
+			"app_name": "gog-redist",
+			"runner": "gog",
+			"title": "Galaxy Common Redistributables",
+			"canRunOffline": true,
+			"install": {
+				"is_dlc": true
+			},
+			"is_installed": true,
+			"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+		},
+		{
+			"runner": "gog",
+			"developer": "CD Projekt RED",
+			"app_name": "1423049311",
+			"art_cover": "https://images.gog.com/21bb7830e75e529e0a276debeaff132c2062ea08864dee57eef579d4057e2d52.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8b37ef624d6f8a4092c43daed92660cde499434f8c0a2078f342bc34f4e752f2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b6cd05d236181817eddd6cba234275eb9e7957e2e04214c3ac7a281d88521f9c.webp?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"art_icon": "https://images.gog.com/d874e44db18f4604f25934fe141043812e21f20733072b3f2eded2014a4308f7.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "The RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Shooter"
+				]
+			},
+			"folder_name": "Cyberpunk 2077",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Cyberpunk 2077",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false,
+			"gog_save_location": [
+				{
+					"name": "saves",
+					"location": "<?SAVED_GAMES?>/CD Projekt Red/Cyberpunk 2077"
+				}
+			]
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1478349159",
+			"art_cover": "https://images.gog.com/f642683953300a2d75924c46fbd434f6e09359e9d90090407e599ab357b4c4d4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/dae769544a9dca7281b2e3b9e3d35c5872129900292ebb02c9824618e1303fe9.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0fea97cc15a790bcdd333c5a9e27f4a349d59dd5ca9842835adac3cabef4c7c4.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/6034d5dcf88472c7cc8f45a34e955b5581fc77123c29cf45f9d1d4ae7301321d.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Yakuza Kiwami 2 is a remake of Yakuza 2, and is an action-adventure game set in an open world environment and played from a third-person perspective. Combat is based on that previously seen in Yakuza 6. A new \"Majima Saga\" story scenario features recurring series anti-hero Goro Majima as a playable character.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza Kiwami 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1896187920",
+			"art_cover": "https://images.gog.com/3bbec646c104af676b366d35938e5b9082798e7554b18c3d7ca7d21a4ec54bd6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/ba13a1e557bf7b75bec50306c1416850f1441cd72eb5c1760ed5810dcddc0d2f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8c986e7b8d463b2c9652c90280ddaefa1ccd3077fe07f65b7aab52dcc841b521.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/6efd6d7dc58faa0796608c6ca9cc552bad9e05d787fbc1c707e0677821860f27.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Experience the fifth chapter of the Kazuma Kiryu saga in 1080p and 60fps. Get ready for a Yakuza experience of unprecedented scale. Follow five characters across five Japanese cities, each trying to achieve their dream. The connections between them bring them together, but the conflict that unfolds is nothing any of them could have predicted.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza 5 Remastered",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1311648027",
+			"art_cover": "https://images.gog.com/424385d93f78e8b92a07c40aa149616f0130ec1a52803f781bf66673b43590b6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8bfa398df912e06b78d1f77f5141f67da73c166a88e9d02bf496fe87cda7d6eb.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4061f77dcf1f7b11defb4e3b4506447ae0891a560a000c06896fa40cacae8fb8.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/c921820f3f94589800a2662d8f37a58fd14cb5595e2ff6e916184c5f1912c7d7.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "The game from 2010 has been remastered for the PS4 with one of Yakuza 4's main protagonists, Masayoshi Tanimura, being recast and getting a visual makeover. \r\n \r\nKamuro Chou, the entertainment district is about to be bloodbath again. This time, we have four rising dragons. Each of the protagonists has a different fighting style and each of them has to go through sets of impossible trials to find their destiny. The line between game and reality is further blurred, earlier, in 2009, Sega hosts a beauty pageant, and the seven winners became models of their game avatars. Some of them are bar girls, some are hostesses, visit the \"play spots\" with them, ask them to date in the spas and sing karaoke with them. The Rising Dragon is looking for a successor, will you be it?",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Sport",
+					"Simulator",
+					"Hack and slash/Beat 'em up"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza 4 Remastered",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1951443960",
+			"art_cover": "https://images.gog.com/6138e5c76d4e7d4503829d7b7e6455790751c90669c90922616abb7c4afcd138.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/0f7c01c712f0a34b24645a7c00c71773b6dfd4fc8da87471c0601ed216806d28.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1de10c293238351862a0da95aabf84ca8552d2ebfb6f09f4d66900cc2e07135a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/04a1b61740689232fcd404af5d47ba4a8339760b2cdde6e0b14934ee2523e00b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Yakuza Kiwami is a remake of the 2005 open-world action-adventure game Yakuza.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Hack and slash/Beat 'em up",
+					"Fighting"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza Kiwami",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1086074447",
+			"art_cover": "https://images.gog.com/6a97edd3f917fb036563e6e448a612708ddc466aaddcffb862ab1ee4fb4f58eb.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/02c20191d52a3903c581bf2b55b85cc2eaedaec716044c02e4c712c9743cd7b2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/794db467e7f821adaf7ce4c53ecdcf5b0273b313d8b45cbab345b643535cb689.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/6e8eec4cf57ab65abe19723ab089ca234755efc623f599d89e6e1129060a3a63.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Step into Japan's criminal underworld in this explosive action brawler starring legendary yakuza, Kazuma Kiryu, who is hellbent on unraveling the truth around his daughter's tragic accident.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Hack and slash/Beat 'em up"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza 6: The Song of Life",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658924",
+			"art_cover": "https://images.gog.com/3a4d9190f3c0a0a8d63638193ef8c9af2ba58eb0b250295db2a28bccf852a76d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fc1c44b2252e3200db66872630f7e21687bba217b6eabb188451556b5941cf63.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Now you can experience this fantastic RPG on Mac and PC!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios",
+			"app_name": "1453650568",
+			"art_cover": "https://images.gog.com/1326145a543c74e3fb38394616e663c598713a19cb4b236987592ff4ebbd57fa.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fba424a7dda34ee8364c65774d91a14c631b1acef9629e3c8144a4cf717a7a18.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a33622af2a6fcd54b160f7550a67054d89d725aa726fffd6189bc9057ee9c118.webp?namespace=gamesdb",
+			"cloud_save_enabled": true,
+			"art_icon": "https://images.gog.com/ac47a80ff7f0e291583ab84894538a72de7d91b86ce8a367b0c6858da0241e7b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "This is the third Yakuza game, remastered for PlayStation 4! \r\n \r\nThe Yakuza wars are spreading over to the tropical paradise of Okinawa. After leaving his last base in Kamimuro Chou, Kiryuu Kazuma went to Okinawa and opened an orphanage named Asagao with Haruka. Together with the children, they have taken in, the two slowly let go of the violent lives they have led prior to their arrival. However, the happy days are short-lived for the Yakuza are tightly connected with the Japanese government. A shady deal that involves the land which Asagao is built on spurs Kiryuu and Haruka back to their old hometown and fights with oppositional Yakuza groups. Fights and political intrigue comes hand in hand, become the rising dragon and protect the sanctuary you have built.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Hack and slash/Beat 'em up"
+				]
+			},
+			"folder_name": "Yakuza 3",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza 3 Remastered",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false,
+			"gog_save_location": []
+		},
+		{
+			"runner": "gog",
+			"developer": "Ryu Ga Gotoku Studios, Sega Games",
+			"app_name": "1103602225",
+			"art_cover": "https://images.gog.com/86b4b54037e86aa04b39b873dffc1118891a029635c879df4cea7bab9a2760f9.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/4febbe661331154c99c2be816b3512e88cec9562c417da0e74fa30852d2f67c8.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1b57f4bb3a0ce35f0d1652bb81fa64f0054c424007223396e8993e9ff46beb9e.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/a4d16f84fa7246a4fe6964c552c5ab95b99bd4871e3aec8dac753d6f2b884cd5.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Yakuza 0 is an action-adventure game developed by Ryu Ga Gotoku Studio and published by Sega. Serving as a prequel to the Yakuza series, it is set in 1988 Japan during the country's economic bubble era. The game follows two protagonists: Kazuma Kiryu in Tokyo's Kamurocho district and Goro Majima in Osaka's Sotenbori district. Players alternate between their stories as they navigate the criminal underworld, engaging in street fights, managing businesses, and participating in various side activities.\n\nThe gameplay combines beat 'em up combat with open-world exploration, offering numerous mini-games and side quests. Yakuza 0 was initially released for PlayStation 3 and PlayStation 4 in Japan in March 2015, followed by a worldwide release on PlayStation 4 in January 2017. It later became available on Windows via Steam in August 2018 and on Xbox One in February 2020. A Director's Cut version is scheduled for release on Nintendo Switch 2 on June 5, 2025.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Simulator",
+					"Hack and slash/Beat 'em up"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Yakuza 0",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658930",
+			"art_cover": "https://images.gog.com/a3b93b2454b0b020a6092cd430a70b05d2c05a98165333c0441ee1d6afa53a42.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/37fa9409b8756108e64eacba4345b5380e59e93e99d2b4fa377f921bf4dd1fbf.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a75bf0ef0609e5ab5d729e2809bb0eadec0a1bfece4912f98472aaafd3c6c6bc.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/37fa9409b8756108e64eacba4345b5380e59e93e99d2b4fa377f921bf4dd1fbf.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "All existing owners of The Witcher 2 received free upgrades to the Enhanced Edition, and could pre-load the update starting 11 April 2012. All new copies on PC and Xbox 360 shipped with the additional content on board. The Witcher 2: Assassins of Kings - Enhanced Edition added over 10GB of new content, including four hours of gameplay, arena mode, new tutorial, 36 minutes of cinematics including a new intro created by Platige Image and an outro, as well as a host of fixes to gameplay and the interface.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		}
+	],
+	"__timestamp": {
+		"games": "Thu Mar 19 2026 02:11:49 GMT+0500 (Maldives Time)"
+	}
+}

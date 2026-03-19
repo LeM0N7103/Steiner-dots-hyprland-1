@@ -1,0 +1,53 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "MV",
+		"currencies": [
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "USD",
+			"symbol": "$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "418ed252bf79812c03e8e3b75d9177e1",
+			"wishlist": "263cff6cd7f75a9cc6eb10361c5f07b6",
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 10,
+			"forum": 0,
+			"total": 10
+		},
+		"userId": "58158071181581",
+		"username": "LeM0N666",
+		"galaxyUserId": "58158071101003554",
+		"avatar": "https://images.gog.com/3f9e109ac09308f7d52c607c8571e63d5fb482acca499a83e767dfff7f00d57d",
+		"walletBalance": {
+			"currency": "USD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 10,
+			"movies": 0
+		},
+		"wishlistedItems": 1,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}
